@@ -1,0 +1,16 @@
+const GET_ALL_COMMENTS = "comment:GET_ALL_COMMENTS";
+const DELETE_COMMENT = "comment:DELETE_COMMENT";
+const ADD_COMMENT = "comment:ADD_COMMENT";
+const EDIT_COMMENT = "comment:EDIT_COMMENT";
+const GET_POST_COMMENTS = "comment:GET_POST_COMMENTS";
+
+
+
+
+module.exports = {
+    GET_ALL_COMMENTS,
+    DELETE_COMMENT,
+    ADD_COMMENT,
+    EDIT_COMMENT,
+    GET_POST_COMMENTS
+}
